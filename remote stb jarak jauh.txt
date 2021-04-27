@@ -48,6 +48,9 @@ Ambil Aksesnya yg Forwarding cek yg http 80
 Copas di browsing googlechroom
 
 
+NB : Kondisi STB Openwrt yg di remote harus aktif ngrok
+
+
 Salam kenal dari ujung timur
 
 Regards Boychongzen aka Xroot
