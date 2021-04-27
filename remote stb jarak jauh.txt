@@ -40,7 +40,7 @@ Terus Copas aksesnya & kirim via WA
 
 HP Android sebagai Jarak Jauh
 Ambil Aksesnya yg Forwarding cek yg http 80
-Copas di browsing googlechroom
+Copas di browsing googlechroom dll
 
 
 NB : Kondisi STB Openwrt yg di remote harus aktif ngrok
