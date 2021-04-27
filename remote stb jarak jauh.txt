@@ -26,6 +26,14 @@ rm ngrok-stable-linux-arm64.zip
 
 unzip ngrok-stable-linux-arm64.zip
 ngrok
+copy ngrok ke bin
+
+cp -f ngrok /usr/bin
+Cek ke folder bin
+cd /usr/bin  
+ngrok
+Kembali ke home
+cd $home
 Perintah ambil token di website grok
 Token ngrok
 ./ngrok authtoken xxxxxxxxxxxxxxxxxxxxxxxxx
