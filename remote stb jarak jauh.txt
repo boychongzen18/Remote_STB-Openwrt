@@ -13,10 +13,11 @@ opkg update
 opkg install unzip
 
 Cara Eksekusi Download & Ekstrak
-cd /root
-download ngrok versi STB Openwrt
+
+Download ngrok versi STB Openwrt
 https://dashboard.ngrok.com/get-started/setup
 Download Linux (ARM64) filenya versi zip
+
 wget
 https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.zip
 
