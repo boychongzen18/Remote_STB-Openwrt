@@ -20,28 +20,22 @@ Download Linux (ARM64) filenya versi zip
 wget
 https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.zip
 
-Cara Ekatrak file zip nya & hapus filenya
-cara hapus file di Openwrt
-rm ngrok-stable-linux-arm64.zip
+cara Ekatrak file zip nya & hapus filenya
 
 unzip ngrok-stable-linux-arm64.zip
-ngrok
-copy ngrok ke bin
+ngrok -<< hasilnya dari unzip
 
-cp -f ngrok /usr/bin
-Cek ke folder bin
-cd /usr/bin  
-ngrok
-Kembali ke home
-cd $home
+rm ngrok-stable-linux-arm64.zip
+
 Perintah ambil token di website grok
 Token ngrok
+
 ./ngrok authtoken xxxxxxxxxxxxxxxxxxxxxxxxx
-screen
-. /ngrok http 80
+./ngrok http 80
+
 ambil aksesnya stb Openwrt yg di remote
 Forwarding cek yg http 80
-Terus Copas aksesnya
+Terus Copas aksesnya & kirim via WA
 
 HP Android sebagai Jarak Jauh
 Ambil Aksesnya yg Forwarding cek yg http 80
