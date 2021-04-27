@@ -12,10 +12,10 @@ pwd : root
 opkg update
 opkg install unzip
 
-Cara Eksekusi Download & Ekstrak
-
+Cara Eksekusi Download & Ekstrak ngrok
+Login di website ngrok
+https://ngrok.com
 Download ngrok versi STB Openwrt
-https://dashboard.ngrok.com/get-started/setup
 Download Linux (ARM64) filenya versi zip
 
 wget
