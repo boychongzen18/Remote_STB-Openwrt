@@ -1,0 +1,40 @@
+
+Author Boychongzen aka Xroot
+Eksekusi Via Terminal Termux
+
+ssh root@192.168.1.1
+pwd : root
+
+opkg update
+opkg install unzip
+
+Cara Eksekusi Download & Ekstrak
+cd /root
+download ngrok versi STB Openwrt
+https://dashboard.ngrok.com/get-started/setup
+Download Linux (ARM64) filenya versi zip
+wget
+https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.zip
+
+Cara Ekatrak file zip nya & hapus filenya
+cara hapus file di Openwrt
+rm ngrok-stable-linux-arm64.zip
+
+unzip ngrok-stable-linux-arm64.zip
+ngrok
+Perintah ambil token di website grok
+Token ngrok
+./ngrok authtoken xxxxxxxxxxxxxxxxxxxxxxxxx
+screen
+. /ngrok http 80
+ambil aksesnya stb Openwrt yg di remote
+Forwarding cek yg http 80
+Terus Copas aksesnya
+
+HP Android sebagai Jarak Jauh
+Ambil Aksesnya yg Forwarding cek yg http 80
+Copas di browsing googlechroom
+
+Salam kenal dari ujung timur
+
+Regards Boychongzen aka Xroot
