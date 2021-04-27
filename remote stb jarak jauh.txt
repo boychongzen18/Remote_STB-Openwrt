@@ -1,6 +1,10 @@
+Cara Remote STB Openwrt Jarak Jauh
+
 
 Author Boychongzen aka Xroot
+
 Eksekusi Via Terminal Termux
+###############################
 
 ssh root@192.168.1.1
 pwd : root
@@ -35,6 +39,8 @@ HP Android sebagai Jarak Jauh
 Ambil Aksesnya yg Forwarding cek yg http 80
 Copas di browsing googlechroom
 
+
 Salam kenal dari ujung timur
 
 Regards Boychongzen aka Xroot
+
