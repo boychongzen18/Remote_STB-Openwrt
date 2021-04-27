@@ -35,11 +35,12 @@ Token ngrok
 ./ngrok http 80
 
 ambil aksesnya stb Openwrt yg di remote
-Forwarding cek yg http 80
+Forwarding cek yg http
 Terus Copas aksesnya & kirim via WA
 
 HP Android sebagai Jarak Jauh
-Ambil Aksesnya yg Forwarding cek yg http 80
+bisa pakai paket normal apa paket saweran
+ambil Aksesnya dari STB Openwrt Forwarding cek yg http
 Copas di browsing googlechroom dll
 
 
