@@ -5,9 +5,9 @@
 # Remote Via HP 
 ![be](https://raw.githubusercontent.com/boychongzen18/Remote_STB-Openwrt/main/hp.jpg)
 
- Youtube       : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+ Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/r4cKC5wKR8o
 
 My Website    : https://hackingforlive.wordpress.com
 
