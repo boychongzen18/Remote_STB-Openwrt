@@ -9,8 +9,7 @@ Eksekusi Via Terminal Termux
 ssh root@192.168.1.1
 pwd : root
 
-opkg update
-opkg install unzip
+opkg update && opkg install openssh-server screen wget unzip
 
 Cara Eksekusi Download & Ekstrak ngrok
 Login di website ngrok
