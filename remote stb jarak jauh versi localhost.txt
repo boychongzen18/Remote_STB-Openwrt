@@ -15,10 +15,7 @@ pwd : root
 ssh -R 8888:localhost:8080 root@192.168.1.1
 pwd : root
 
-
-
-
-Copas di browsing googlechroom
+Aksesnya Copas di browsing googlechroom dll
 
 Salam kenal dari ujung timur
 
