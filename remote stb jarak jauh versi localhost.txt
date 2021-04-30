@@ -1,0 +1,25 @@
+
+Author Boychongzen aka Xroot
+Eksekusi Via Terminal Termux
+
+ssh root@192.168.1.1
+pwd : root
+
+
+
+opkg update && opkg install openssh-server screen wget
+
+ssh -L 8888:192.168.1.1:80 root@192.168.1.1
+pwd : root
+
+ssh -R 8888:localhost:8080 root@192.168.1.1
+pwd : root
+
+
+
+
+Copas di browsing googlechroom
+
+Salam kenal dari ujung timur
+
+Regards Boychongzen aka Xroot
