@@ -31,7 +31,8 @@ Perintah ambil token di website grok
 Token ngrok
 
 ./ngrok authtoken xxxxxxxxxxxxxxxxxxxxxxxxx
-./ngrok http 80
+./ngrok http 80 atau ./ngrok http http//192.168.1.1:80
+
 
 ambil aksesnya stb Openwrt yg di remote
 Forwarding cek yg http
