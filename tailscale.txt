@@ -1,0 +1,15 @@
+TUTORIAL
+
+buka terminal ikutin cara dibawah
+
+ 1   tailscale login
+	 
+	 
+ 2   Modem
+        tailscale up --advertise-routes=192.168.8.0/24 --netfilter-mode=off
+		
+ 3   local startup		
+		sleep 60 && service /etc/init.d/tailscale restart
+		
+		
+	
