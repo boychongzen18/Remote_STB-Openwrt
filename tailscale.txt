@@ -1,15 +1,23 @@
-TUTORIAL
+TUTORIAL SETTING TAILSCALE 2024
+
+Creator Boychongzen aka Xroot
 
 buka terminal ikutin cara dibawah
 
  1   tailscale login
 	 
 	 
- 2   Modem
-        tailscale up --advertise-routes=192.168.8.0/24 --netfilter-mode=off
+ 2   Modem & Router
+        tailscale up --advertise-routes=192.168.7.0/24,192.168.8.0/24,192.168.0.0/24 --netfilter-mode=off 
+         
+       
 		
  3   local startup		
 		sleep 60 && service /etc/init.d/tailscale restart
+
+
+
+My FB : https://www.facebook.com/xroot.xroot.7
 		
 		
 	
