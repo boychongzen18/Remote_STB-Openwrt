@@ -13,7 +13,7 @@ buka terminal ikutin cara dibawah
        
 		
  3   local startup		
-		sleep 60 && service /etc/init.d/tailscale restart
+        sleep 60 && service /etc/init.d/tailscale restart
 
 
 
